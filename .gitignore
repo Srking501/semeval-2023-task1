@@ -1,0 +1,6 @@
+# Ignore Everything
+*
+
+# Except
+!.gitignore
+!task1_semeval2023.ipynb
