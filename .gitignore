@@ -2,7 +2,8 @@
 *
 
 
-# Except
+# Except (note: needed to add the directory first, then files)
+!/data
 !/data/captions_train_clean_complete.csv
 !/data/wordnet(individual tokens).csv
 !.gitignore
