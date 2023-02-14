@@ -6,5 +6,6 @@
 !/data
 !/data/captions_train_clean_complete.csv
 !/data/wordnet(individual tokens).csv
+!/data/README.md
 !.gitignore
 !task1_semeval2023.ipynb
